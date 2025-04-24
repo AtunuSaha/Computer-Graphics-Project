@@ -1,6 +1,6 @@
 # THE SAILING ODYSSEY
 
-This project aims to create an interactive computer graphics simulation representing a ship's journey through different scenarios, from departing a port, navigating an urban area, to crossing a canal.
+This project aims to create an interactive computer graphics simulation representing a ship's journey through different scenarios, from departing a port, navigating an urban area, passing a sea, to crossing a canal.
 
 ## Objective
 
